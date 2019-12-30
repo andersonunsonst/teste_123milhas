@@ -14,7 +14,7 @@
  		string $motorista,
  		string $placa,
  		DateTime $dataHora,
- 		float $valorHora;
+ 		float $valorHora
  		)
  	{
  		$this->carro = $carro;
